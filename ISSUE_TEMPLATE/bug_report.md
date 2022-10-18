@@ -1,6 +1,14 @@
+---
+name: Bug report
+about: Create a report to help us improve Otterize
+title: ''
+labels: ''
+assignees: ''
+
+---
+
 **Description**
-Describe the problem or suggested feature here. Include the version you are using.
-If this is a suggested feature, please describe the rationale and use case.
+Describe the problem. Include the version you are using.
 
 **Platform**
 Where did the platform occur? Include, if applicable:
@@ -11,7 +19,7 @@ Where did the platform occur? Include, if applicable:
 * Operating system
 
 **Steps to reproduce**
-If this is a bug, please include steps to reproduce.
+Please include steps to reproduce.
 
 **Expected results**
 
