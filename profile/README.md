@@ -8,7 +8,7 @@
 ## About
 Otterize OSS is an open source project for easily managing service-to-service authorization in a Kubernetes cluster, by declaring with [client intents files](https://otterize.com/ibac) the calls each service needs to make. The main component of Otterize OSS &mdash; the Otterize intents operator &mdash; uses these files to configure network policies, Kafka ACLs, and other enforcement points (in the future) so they allow just the intended calls. 
 
-[Otterize OSS](https://otterize.com/oss) is developed by [Otterize](https://otterize.com) as a standalone implementation of [intent-based access control (IBAC)](https://otterize.com/ibac) for a single Kubernetes cluster. It does not depend on the upcoming [Otterize Cloud](https://otterize.com/product).
+[Otterize OSS](https://otterize.com/open-source) is developed by [Otterize](https://otterize.com) as a standalone implementation of [intent-based access control (IBAC)](https://otterize.com/ibac) for a single Kubernetes cluster. It does not depend on the upcoming [Otterize Cloud](https://otterize.com/product).
 
 ### Intent-based access control (IBAC)
 
