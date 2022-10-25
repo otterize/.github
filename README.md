@@ -1,6 +1,6 @@
 # Otterize OSS
 
-![Otter Manning Helm](./otterhelm.png)
+<img title="Otter Manning Helm" src="./otterhelm.png" width=200 />
 
 
 [About](#about) | [Quick tutorials](https://docs.otterize.com/quick-tutorials/) | [Docs](https://docs.otterize.com) | [Contributing](#contributing) | [Slack](#slack)
