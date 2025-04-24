@@ -5,7 +5,7 @@ Avoid specifying implementation details in the PR title. The PR title should ref
 
 - Fixed bug: "Fixed bug where <what happens> <can rarely (if applicable)> when <when it happens>". For example: "Fixed bug where sniffer would not stop gracefully upon context cancellation"
 - New feature: "Added support for <new scenario that works, worded from the user's perspective>", "Support for <new feature>". For example: "Support for GCP IAM eBPF visibility", "Support new API version for ClientIntents: v2beta1"
-- Improvement to existing feature: "Improve CPU consumption by skipping populateReferencedKubernetesServices logic when egress enforcement is disabled" 
+- Improvement to existing feature: "Improve <what> by <doing what>". For example: "Improve CPU consumption by skipping populateReferencedKubernetesServices logic when egress enforcement is disabled" 
 
 ### Description
 
