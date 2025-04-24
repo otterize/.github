@@ -3,9 +3,9 @@ How to name my PR?
 
 Avoid specifying implementation details in the PR title. The PR title should reflect behavior changes.
 
-- Fixed bug: "Fixed bug where <what happens> <can rarely (if applicable)> when <when it happens>". For example: "Fixed bug where sniffer would not stop gracefully upon context cancellation"
-- New feature: "Added support for <new scenario that works, worded from the user's perspective>", "Support for <new feature>". For example: "Support for GCP IAM eBPF visibility", "Support new API version for ClientIntents: v2beta1"
-- Improvement to existing feature: "Improve <what> by <doing what>". For example: "Improve CPU consumption by skipping populateReferencedKubernetesServices logic when egress enforcement is disabled" 
+- Fixed bug: "Fixed bug where &lt;what happens&gt; &lt;can rarely (if applicable)&gt; when &lt;when it happens&gt;". For example: "Fixed bug where sniffer would not stop gracefully upon context cancellation"
+- New feature: "Added support for &lt;new scenario that works, worded from the user's perspective&gt;", "Support for &lt;new feature&gt;". For example: "Support for GCP IAM eBPF visibility", "Support new API version for ClientIntents: v2beta1"
+- Improvement to existing feature: "Improve &lt;what&gt; by &lt;doing what&gt;". For example: "Improve CPU consumption by skipping populateReferencedKubernetesServices logic when egress enforcement is disabled" 
 
 ### Description
 
